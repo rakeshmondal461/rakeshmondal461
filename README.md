@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakesh Mondal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshmondal461&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshmondal461" /> </p>
-
 - 🌱 I’m currently learning **Docker, Kubernates,Jenkins**
 
 - 💬 Ask me about **MERN Stack, React JS, Express JS**
